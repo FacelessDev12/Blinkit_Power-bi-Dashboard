@@ -128,5 +128,5 @@ These slicers allow users to explore specific segments of the data.
 
 ## 📸 Dashboard Preview
 
-![Blinkit Dashboard]<img width="1411" height="787" alt="Blinkit project" src="https://github.com/user-attachments/assets/4c34d941-3495-4919-bdf4-3e9a29e8e99f" />
+![Blinkit Dashboard](https://github.com/FacelessDev12/Blinkit_Power-bi-Dashboard/blob/main/Blinkit%20project.png)
 
