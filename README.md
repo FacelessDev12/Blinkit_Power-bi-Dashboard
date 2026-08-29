@@ -135,3 +135,6 @@ Blinkit-PowerBI-Dashboard/
 ├── 📄 README.md
 └── 📁 Dataset/
     └── Blinkit Dataset.csv
+
+## 📸 Dashboard Preview
+Example:https://github.com/FacelessDev12/Blinkit_Power-bi-Dashboard/blob/main/Blinkit%20project.png
