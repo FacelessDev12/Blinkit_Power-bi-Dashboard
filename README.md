@@ -125,16 +125,6 @@ These slicers allow users to explore specific segments of the data.
 
 ---
 
-## 📂 Project Structure
-
-```text
-Blinkit-PowerBI-Dashboard/
-│
-├── 📊 Blinkit Dashboard.pbix
-├── 📸 Blinkit Dashboard.png
-├── 📄 README.md
-└── 📁 Dataset/
-    └── Blinkit Dataset.csv
 
 ## 📸 Dashboard Preview
 
