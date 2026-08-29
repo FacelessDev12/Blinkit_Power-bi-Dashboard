@@ -138,4 +138,4 @@ Blinkit-PowerBI-Dashboard/
 
 ## 📸 Dashboard Preview
 
-<img src="https://raw.githubusercontent.com/FacelessDev12/Blinkit_Power-bi-Dashboard/main/Blinkit%20project.png" alt="Blinkit Power BI Dashboard">
+![Dashboard](./Blinkit%20project.png)
