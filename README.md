@@ -1,4 +1,3 @@
-# Blinkit-Power-bi-Dashboard
 # 🛒 Blinkit Sales Analysis Dashboard – Power BI
 
 ## 📊 Project Overview
