@@ -136,5 +136,8 @@ Blinkit-PowerBI-Dashboard/
 └── 📁 Dataset/
     └── Blinkit Dataset.csv
 
-## 📸 Dashboard Preview
-Example:https://github.com/FacelessDev12/Blinkit_Power-bi-Dashboard/blob/main/Blinkit%20project.png
+<h2>📸 Dashboard Preview</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FacelessDev12/Blinkit_Power-bi-Dashboard/main/Blinkit%20project.png" alt="Blinkit Power BI Dashboard" width="100%">
+</p>
