@@ -1,6 +1,11 @@
-# 🛒 Blinkit Sales Analysis Dashboard – Power BI
+#  Blinkit Sales Analysis Dashboard – Power BI
 
-## 📊 Project Overview
+##  Dashboard Preview
+
+![Blinkit
+Dashboard](https://github.com/FacelessDev12/Blinkit_Power-bi-Dashboard/blob/main/Blinkit%20project.png)
+
+##  Project Overview
 
 This project is an interactive **Blinkit Sales Analysis Dashboard** created using **Microsoft Power BI**.
 
@@ -24,7 +29,7 @@ The main objectives of this project are:
 
 ---
 
-## 📌 Key KPIs
+##  Key KPIs
 
 The dashboard displays the following key performance indicators:
 
@@ -37,7 +42,7 @@ The dashboard displays the following key performance indicators:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### 1. Outlet Establishment Analysis
 
@@ -114,7 +119,7 @@ These slicers allow users to explore specific segments of the data.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Power BI**
 - **Power Query** – Data cleaning and transformation
@@ -124,9 +129,4 @@ These slicers allow users to explore specific segments of the data.
 
 ---
 
-
-## 📸 Dashboard Preview
-
-![Blinkit
-Dashboard](https://github.com/FacelessDev12/Blinkit_Power-bi-Dashboard/blob/main/Blinkit%20project.png)
 
